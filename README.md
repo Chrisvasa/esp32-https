@@ -12,6 +12,10 @@ const char* THINGSPEAK_API_KEY = "api write key here";
 
 #endif
 ```
+![image](https://github.com/user-attachments/assets/9076e793-782a-4a77-bf2f-2e100aa33691)
+
+- [Public view of temperature data](https://thingspeak.mathworks.com/channels/2718779/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
+- [Public view of humidity data](https://thingspeak.mathworks.com/channels/2718779/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
 # **Systemspecificering för IoT-baserad temperatur- och fuktighetsövervakning**
 
 ## 1. **Inledning**
